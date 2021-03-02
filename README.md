@@ -23,7 +23,7 @@ yarn start
 Create the build:
 
 ```
-yarn run build
+yarn build
 ```
 
 
