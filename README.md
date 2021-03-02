@@ -2,10 +2,9 @@
 
 A small set of magnetic buttons with some fun hover animations. Inspired by the button animation seen on [Cuberto](https://cuberto.com/services/).
 
+## [Demo](https://djz0q.csb.app/)
+
 ![Image](https://res.cloudinary.com/vinzcelavi/image/upload/v1614646463/github/magnetic-button-min_sz3imt.png)
-
-[Demo](https://djz0q.csb.app/)
-
 
 ## Installation
 
