@@ -24,10 +24,10 @@ const Header = styled.div`
   top: 0;
   left: 0;
   right: 0;
-  display: flex;
   padding: 1em;
 
   @media (min-width: 480px) {
+    display: flex;
     justify-content: space-between;
   }
 `;
