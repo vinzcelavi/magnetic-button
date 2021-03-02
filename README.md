@@ -1,6 +1,6 @@
 # Magnetic Buttons
 
-A small set of magnetic buttons with some fun hover animations. Inspired by the button animation seen on [Cuberto](https://cuberto.com/services/).
+Largely inspired by [Cuberto](https://cuberto.com/services/) & [Codrops](https://tympanus.net/Development/MagneticButtons/index4.html).
 
 ## [Demo](https://djz0q.csb.app/)
 
