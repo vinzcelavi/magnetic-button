@@ -2,7 +2,7 @@
 
 Largely inspired by [Cuberto](https://cuberto.com/services/) & [Codrops](https://tympanus.net/Development/MagneticButtons/index4.html).
 
-## [Demo](https://djz0q.csb.app/)
+## [Demo](https://tgowd.csb.app)
 
 ![Image](https://res.cloudinary.com/vinzcelavi/image/upload/v1614646463/github/magnetic-button-min_sz3imt.png)
 
