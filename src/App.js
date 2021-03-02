@@ -16,11 +16,6 @@ const Page = styled.div`
   height: 100%;
   width: 100%;
   font-family: ${({ theme }) => theme.fonts.primary};
-
-  * {
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-  }
 `;
 
 const Header = styled.div`
